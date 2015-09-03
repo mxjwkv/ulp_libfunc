@@ -1,6 +1,6 @@
 # Git Ignore Files
 #     Created: 21-AUG-2015
-# Last Update: 01-SEP-2015
+# Last Update: 02-SEP-2015
 
 *.slo
 *.lo
@@ -20,6 +20,8 @@
 *.ncb
 *.suo
 *.user
+*.layout
+*.depend
 [Dd]ebug*/
 [Rr]elease*/
 [Bb]in/
